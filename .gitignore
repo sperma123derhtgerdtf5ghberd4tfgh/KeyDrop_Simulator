@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.yarn/cache
+.yarn/install-state.gz
+yarn-error.log
+
+.vercel
+.unlighthouse
+.local-db

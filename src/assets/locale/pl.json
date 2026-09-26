@@ -1,0 +1,239 @@
+{
+  "success": "Sukces",
+  "error": "Błąd",
+  "loading": "Ładowanie",
+  "gold": "Złoto",
+  "money": "Pieniądze",
+  "header": {
+    "displayedLang": "Polish (Polski)",
+    "searchboxText": "Wyszukaj",
+    "balance": "Saldo Portfela",
+    "login": "Zaloguj się",
+    "logout": "Wyloguj się",
+    "deposit": "Doładuj",
+    "nav": {
+      "myAccount": "Moje konto",
+      "games": "Gry"
+    }
+  },
+  "footer": {
+    "stats": {
+      "openedCases": "Otwartych skrzyń",
+      "battles": "Rozegranych bitew",
+      "upgrades": "Ulepszenia",
+      "users": "Użytkowników",
+      "online": "Online"
+    },
+    "socials": {
+      "follow": "Obserwuj nas"
+    }
+  },
+  "case": {
+    "back": "Wróć",
+    "goBack": "Wróc do strony głównej",
+    "balanceCheck": "Sprawdzianie balansu...",
+    "tooPoor": "Brak wystarczającego salda",
+    "notLoggedIn": "Zaloguj się aby otworzyć",
+    "open": "Otwórz za",
+    "sellSuccess": "Pomyślnie sprzedano",
+    "caseContents": "Zawartość skrzyni",
+    "winScreen": {
+      "reOpen": "Otwórz ponownie",
+      "sell": "Sprzedaj za",
+      "upgrade": "Ulepsz wszystko",
+      "spendings": "Wydane",
+      "winnings": "Wygrane",
+      "profit": "Profit"
+    }
+  },
+  "profile": {
+    "mainPage": "Przejdź do strony głównej",
+    "logout": "Wyloguj się",
+    "balance": "Twój balans",
+    "sort": {
+      "title": "Sortowanie",
+      "newest": "Najnowsze",
+      "oldest": "Najstarsze",
+      "cheapest": "Najtańsze",
+      "mostExpensive": "Najdroższe"
+    },
+    "showItems": {
+      "title": "Pokaż przedmioty",
+      "all": "Wszystkie",
+      "active": "Aktywne"
+    },
+    "upgrade": "Ulepsz wszystko",
+    "sellAll": "Sprzedaj wszystko",
+    "exchange": "Wymień",
+    "item": {
+      "sold": "Sprzedany",
+      "origin": "Zdobyto ze skrzyni",
+      "sell": "Sprzedaj za"
+    }
+  },
+  "loginPage": {
+    "title": "Nie jesteś zalogowany",
+    "text": "Musisz być zalogowany aby zobaczyć tę stronę.",
+    "login": "Zaloguj się",
+    "register": "Zarejestruj się"
+  },
+  "loginForm": {
+    "header": "Zaloguj się",
+    "accountNamePlaceholder": "Nazwa Konta",
+    "passwordPlaceholder": "Hasło",
+    "buttonText": "Login"
+  },
+  "registerForm": {
+    "header": "Zarejestruj się",
+    "accountNamePlaceholder": "Nazwa Konta",
+    "passwordPlaceholder": "Hasło",
+    "passwordConfirmPlaceholder": "Potwierdź Hasło",
+    "sandboxModeLabel": "Tryb sandbox (nielimitowany balans)",
+    "selectLanguageHeader": "Wybierz język",
+    "buttonText": "Stwórz konto"
+  },
+  "balanceForm": {
+    "balancePlaceholder": "Balans",
+    "setBalance": "Ustaw Balans",
+    "selectBalanceType": "Wybierz typ balansu"
+  },
+  "profilePicForm": {
+    "urlPlaceholder": "Link do zdjęcia",
+    "setProfilePic": "Ustaw Profilowe"
+  },
+  "toasts": {
+    "error": {
+      "header": "Błąd",
+      "messages": {
+        "notEnoughBalance": "Niewystarczające saldo",
+        "noPasswordUsername": "Brak hasła lub nazwy",
+        "loggedIn": "Użytkownik jest już zalogowany",
+        "notLoggedIn": "Użytkownik nie jest zalogowany",
+        "invalidPasswordUsername": "Nieprawidłowy użytkownik lub hasło",
+        "invalidRegisterValue": "Jedna z podanych wartości jest nieprawidłowa",
+        "usernameTaken": "Nazwa użytkownika jest już zajęta",
+        "passwordNotMatch": "Hasła się nie zgadzają",
+        "noSessionID": "Brak ID sesji",
+        "noSession": "Brak sesji",
+        "userNotExists": "Użytkownik nie istnieje",
+        "notOwnItem": "Użytkownik nie posiada jednego lub paru przedmiotów z listy",
+        "errorDuringSell": "Wystąpił bład podczas sprzedawania",
+        "errorDuringItemAdd": "Wystąpił problem podczas dodawania przedmiotów, prosze skontakutj się z oxi#6219",
+        "itemNotFound": "Brak znalezionych przedmiotów",
+        "invalidBalance": "Nieprawidłowy balans",
+        "invalidBalanceType": "Nieprawidłowy typ balansu",
+        "maxItemsSelected": "Możesz maksymalnie wybrać 15 przedmiotów",
+        "upgraderInvalidValues": "Niektóre podane dane są nieprawidłowe",
+        "upgraderInvalidChance": "Niepoprawna szansa",
+        "spotTaken": "Miejsce zajęte",
+        "invalidUrl": "Nieprawidłowy link",
+        "battleLimitReached": "Limit walk został osiągnięty (1)"
+      }
+    },
+    "success": {
+      "header": "Sukces",
+      "messages": {
+        "sell": "Pomyślnie sprzedano",
+        "loginSuccess": "Pomyślnie zalogowano",
+        "registerSuccess": "Pomyślnie zarejestrowano",
+        "logoutSuccess": "Pomyślnie wylogowano"
+      }
+    },
+    "special": {
+      "caseOpen": {
+        "header": "Wygrana",
+        "message": "Zysk"
+      }
+    }
+  },
+  "upgrader": {
+    "return": "Wróć",
+    "goToHomePage": "Wróć na stron główną",
+    "chooseItem": "Wybierz przedmiot",
+    "upgradeItem": "Wybierz przedmiot, który chcesz ulepszyć",
+    "receiveItem": "Wybierz przedmiot, który chcesz dostać",
+    "yourItems": "Twoje przedmioty",
+    "findSkin": "Znajdź przedmiot",
+    "price": "Cena"
+  },
+  "battles": {
+    "active": "Aktywne",
+    "online": "Online",
+    "battlesPlayed": "Rozegrane bitwy",
+    "all": "Wszystkie",
+    "battles": "Bitwy",
+    "rounds": "Rundy",
+    "cases": "Skrzynie",
+    "worth": "Wartość",
+    "players": "Graczy",
+    "status": "Status",
+    "confirm": "Potwierdź",
+    "joinClassic": "Dołącz do klasycznej bitwy",
+    "joinUnderdog": "Dołącz do bitwy underdog",
+    "viewBattle": "Zobacz bitwę",
+    "header": {
+      "seeBots": "Zobacz nasze boty",
+      "activeBattles": "Aktywne bitwy",
+      "finishedBattles": "Zakończone bitwy",
+      "myBattles": "Moje Bitwy",
+      "createBattle": "Stwórz bitwę key-drop",
+      "createBattleShort": "Stwórz bitwę",
+      "battle": "Bitwa"
+    },
+    "list": {
+      "search": "Szukaj",
+      "sorting": "Sortowanie",
+      "newest": "Najnowsze",
+      "priceAsc": "Cena Rosnąco",
+      "priceDesc": "Cena Malejąco",
+      "priceRange": "Przedział cenowy",
+      "reset": "Reset",
+      "classicMode": "Tryb klasyczny",
+      "underdogMode": "Tryb underdog",
+      "default": "Domyślne",
+      "name": "Nazwa"
+    },
+    "create": {
+      "roundSum": "Suma rund",
+      "addCase": "Dodaj skrzynie",
+      "caseAddition": "Select Cases",
+      "playerCount": {
+        "title": "Liczba graczy",
+        "desc": "Cashback jest zwiększony w bitwach dla 3 i 4 graczy!"
+      },
+      "privacy": {
+        "title": "Prywatność",
+        "desc": "Wybierz ustawienia prywatności bitwy"
+      },
+      "mode": {
+        "title": "Case Battle Mode",
+        "desc": "Wybierz tryb dla swojej bitwy"
+      },
+      "confirm": {
+        "title": "Całkowity koszt",
+        "desc": "Całkowity koszt za skrzynie"
+      },
+      "public": "Publiczna",
+      "private": "Prywatna",
+      "classic": "Klasyczna"
+    },
+    "battlePage": {
+      "battleRounds": "Rundy Bitwy",
+      "results": "Przejdź do wyniku",
+      "battleStart": "Rozpoczęcie bitwy",
+      "createSame": "Stwórz taką samą bitwę",
+      "ready": "Jesteś gotowy",
+      "toBattle": "do gry",
+      "readyToBattle": "Gotowy do bitwy",
+      "winner": "Wygrany",
+      "loser": "Przegrany",
+      "totalPrize": "Całkowita wygrana",
+      "summonBots": "Przywołaj wszystkie boty",
+      "leaveBattle": "Opuść bitwę",
+      "waitingForPlayers": "Oczekiwanie na graczy",
+      "playWithBot": "Graj z botem",
+      "enableSound": "Włącz Dźwięk",
+      "disableSound": "Wyłącz Dźwięk"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "success": "Success",
+  "error": "Error",
+  "loading": "Loading",
+  "gold": "Gold",
+  "money": "Money",
+  "header": {
+    "displayedLang": "English (English)",
+    "searchboxText": "Search",
+    "balance": "Wallet Balance",
+    "login": "Login",
+    "logout": "Log Out",
+    "deposit": "Deposit",
+    "nav": {
+      "myAccount": "My account",
+      "games": "Games"
+    }
+  },
+  "footer": {
+    "stats": {
+      "openedCases": "Opened cases",
+      "battles": "Battles",
+      "upgrades": "Upgrade",
+      "users": "Users",
+      "online": "Online"
+    },
+    "socials": {
+      "follow": "Follow us"
+    }
+  },
+  "case": {
+    "back": "Back",
+    "goBack": "Return to home page",
+    "balanceCheck": "Checking balance...",
+    "tooPoor": "Not enough balance to open",
+    "notLoggedIn": "Login to open",
+    "open": "Open for",
+    "sellSuccess": "Successfully sold",
+    "caseContents": "Case contents",
+    "winScreen": {
+      "reOpen": "Open again",
+      "sell": "Sell for",
+      "upgrade": "Upgrade all",
+      "spendings": "Spent",
+      "winnings": "Won",
+      "profit": "Profit"
+    }
+  },
+  "profile": {
+    "mainPage": "Back to main page",
+    "logout": "Logout",
+    "balance": "Your balance",
+    "sort": {
+      "title": "Sorting",
+      "newest": "Latest",
+      "oldest": "Oldest",
+      "cheapest": "Cheapest",
+      "mostExpensive": "Most Expensive"
+    },
+    "showItems": {
+      "title": "Show items",
+      "all": "All",
+      "active": "Active"
+    },
+    "upgrade": "Upgrade all",
+    "sellAll": "Sell all",
+    "exchange": "Exchange",
+    "item": {
+      "sold": "Sold",
+      "origin": "Has been drawn",
+      "sell": "Sell for"
+    }
+  },
+  "loginPage": {
+    "title": "You're not logged in",
+    "text": "You have to log in to see this page.",
+    "login": "Login",
+    "register": "Register"
+  },
+  "loginForm": {
+    "header": "Login",
+    "accountNamePlaceholder": "Account Name",
+    "passwordPlaceholder": "Password",
+    "buttonText": "Login"
+  },
+  "registerForm": {
+    "header": "Register",
+    "accountNamePlaceholder": "Account Name",
+    "passwordPlaceholder": "Password",
+    "passwordConfirmPlaceholder": "Confirm Password",
+    "sandboxModeLabel": "Sandbox mode (unlimited balance)",
+    "selectLanguageHeader": "Select language",
+    "buttonText": "Create account"
+  },
+  "balanceForm": {
+    "balancePlaceholder": "Balance",
+    "setBalance": "Set Balance",
+    "selectBalanceType": "Select balance type"
+  },
+  "profilePicForm": {
+    "urlPlaceholder": "URL to photo",
+    "setProfilePic": "Set Profile Picture"
+  },
+  "toasts": {
+    "error": {
+      "header": "Error",
+      "messages": {
+        "notEnoughBalance": "Not enough balance",
+        "noPasswordUsername": "No password or username",
+        "loggedIn": "User is already logged in",
+        "notLoggedIn": "User is not logged in",
+        "invalidPasswordUsername": "Invalid username or password",
+        "invalidRegisterValue": "One of provided values is invalid",
+        "usernameTaken": "Username already taken",
+        "passwordNotMatch": "The passwords don't match",
+        "noSessionID": "No session ID found",
+        "noSession": "No session found",
+        "userNotExists": "User doesn't exist",
+        "notOwnItem": "User doesn't own one or more of the provided items",
+        "errorDuringSell": "An error has occured during selling",
+        "errorDuringItemAdd": "An error has occured while adding the items, please contact oxi#6219",
+        "itemNotFound": "No items found",
+        "invalidBalance": "Invalid balance",
+        "invalidBalanceType": "Invalid balance type",
+        "maxItemsSelected": "You can select 15 items at max",
+        "upgraderInvalidValues": "Some values are invalid",
+        "upgraderInvalidChance": "invalid chance",
+        "spotTaken": "Spot Taken",
+        "invalidUrl": "Invalid URL",
+        "battleLimitReached": "Battle limit has been reached (1)"
+      }
+    },
+    "success": {
+      "header": "Success",
+      "messages": {
+        "sell": "Successfully sold",
+        "loginSuccess": "Successfully logged in",
+        "registerSuccess": "Successfully registered",
+        "logoutSuccess": "Successfully logged out"
+      }
+    },
+    "special": {
+      "caseOpen": {
+        "header": "Winnings",
+        "message": "Earnings"
+      }
+    }
+  },
+  "upgrader": {
+    "return": "Return",
+    "goToHomePage": "Back to home page",
+    "chooseItem": "Choose item",
+    "upgradeItem": "Item, that you want to upgrade",
+    "receiveItem": "Item, that you want to receive",
+    "yourItems": "Your items",
+    "findSkin": "Find skin",
+    "price": "Price"
+  },
+  "battles": {
+    "active": "Active",
+    "online": "Online",
+    "battlesPlayed": "Total Battles",
+    "all": "All",
+    "battles": "Case Battles",
+    "rounds": "Rounds",
+    "cases": "Cases",
+    "worth": "Value",
+    "players": "Players",
+    "status": "Status",
+    "confirm": "Confirm",
+    "joinClassic": "Join Classic Battle",
+    "joinUnderdog": "Join Underdog Battle",
+    "viewBattle": "Watch The Battle",
+    "header": {
+      "seeBots": "View Our Bots",
+      "activeBattles": "Active Battles",
+      "finishedBattles": "Finished Battles",
+      "myBattles": "My Battles",
+      "createBattle": "Create a Case Battle",
+      "createBattleShort": "Create Battle",
+      "battle": "Battle"
+    },
+    "list": {
+      "search": "Search",
+      "sorting": "Sorting",
+      "newest": "Newest",
+      "priceAsc": "Price: Low To High",
+      "priceDesc": "Price: High To Low",
+      "priceRange": "Price Range",
+      "reset": "Reset",
+      "classicMode": "Classic Mode",
+      "underdogMode": "Underdog Mode",
+      "default": "Default",
+      "name": "Name"
+    },
+    "create": {
+      "roundSum": "Total Rounds",
+      "addCase": "Add Case",
+      "caseAddition": "Select Cases",
+      "playerCount": {
+        "title": "Number of players",
+        "desc": "Cashback is increased for 3-4 player battles!"
+      },
+      "privacy": {
+        "title": "Privacy",
+        "desc": "Game privacy settings"
+      },
+      "mode": {
+        "title": "Case Battle Mode",
+        "desc": "Select your Case Battle mode"
+      },
+      "confirm": {
+        "title": "Total cost",
+        "desc": "Total price of cases"
+      },
+      "public": "Public",
+      "private": "Private",
+      "classic": "Classic"
+    },
+    "battlePage": {
+      "battleRounds": "Battle Rounds",
+      "results": "Go to result",
+      "battleStart": "Battle Start",
+      "createSame": "Create an identical battle",
+      "ready": "You Are",
+      "toBattle": "Ready To Battle",
+      "readyToBattle": "Ready To Battle",
+      "winner": "Winner",
+      "loser": "Loser",
+      "totalPrize": "Total Win",
+      "summonBots": "Summon All Bots",
+      "leaveBattle": "Leave Battle",
+      "waitingForPlayers": "Waiting For Players",
+      "playWithBot": "Play Against Bot",
+      "enableSound": "Enable Sound",
+      "disableSound": "Disable Sound"
+    }
+  },
+  "menu-icon": "Menu icon",
+  "polish-polski": "Polish (Polski)",
+  "header-components-headernav-svelte": "./header components/HeaderNav.svelte",
+  "header-components-headermobileuserpanel-svelte": "./header components/HeaderMobileUserPanel.svelte",
+  "header-components-headeruserpanel-svelte": "./header components/HeaderUserPanel.svelte"
+}
