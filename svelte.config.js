@@ -1,6 +1,18 @@
-import { sveltekit } from '@sveltejs/kit/vite';
-import { defineConfig } from 'vite';
+import adapter from '@sveltejs/adapter-vercel';
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
-export default defineConfig({
-    plugins: [sveltekit()]
-});
+/** @type {import('@sveltejs/kit').Config} */
+const config = {
+    preprocess: vitePreprocess(),
+    kit: {
+        adapter: adapter(),
+        alias: {
+            // Przenieś tutaj swoje aliasy, np.:
+            '$components': './src/components',
+            '$static': './static',
+            '$assets': './src/assets'
+        }
+    }
+};
+
+export default config;
